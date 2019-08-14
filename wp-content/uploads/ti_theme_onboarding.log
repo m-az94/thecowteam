@@ -1,0 +1,15 @@
+[13/Aug/2019:01:51:47] (ℹ️): WordPress Instance Info:
+[13/Aug/2019:01:51:47] (ℹ️): Home URL : http://localhost:8888/Cow-Table
+[13/Aug/2019:01:51:47] (ℹ️): Site URL : http://localhost:8888/Cow-Table
+[13/Aug/2019:01:51:47] (ℹ️): WordPress Version : 5.2.2
+[13/Aug/2019:01:51:47] (ℹ️): Onboarding Version : 1.6.3
+[13/Aug/2019:01:51:47] (ℹ️): Multisite : No
+[13/Aug/2019:01:51:47] (ℹ️): Server Info : Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.3.7 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.10 Perl/v5.24.0
+[13/Aug/2019:01:51:47] (ℹ️): PHP Version : 7.3.7
+[13/Aug/2019:01:51:47] (ℹ️): HTTPS : No
+[13/Aug/2019:01:51:47] (ℹ️): PHP Max Execution Time : 30
+[13/Aug/2019:01:51:47] (ℹ️): PHP Max Input Vars : 1000
+[13/Aug/2019:01:51:47] (ℹ️): Max Upload Size : 8388608
+[13/Aug/2019:01:51:47] (ℹ️): Plugins:
+[13/Aug/2019:01:51:47] (ℹ️): [PLUGIN] Elementor : v2.6.8 (Elementor.com)
+[13/Aug/2019:01:51:47] (ℹ️): [PLUGIN] Orbit Fox Companion : v2.8.5 (Themeisle)
